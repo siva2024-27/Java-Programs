@@ -121,4 +121,5 @@ public class VehicleManagementSystem {
 
         sc.close();
     }
+
 }
